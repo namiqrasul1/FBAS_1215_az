@@ -1,0 +1,30 @@
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\bin\Debug\net6.0\MyMiddleWebServer.exe
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\bin\Debug\net6.0\MyMiddleWebServer.deps.json
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\bin\Debug\net6.0\MyMiddleWebServer.runtimeconfig.json
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\bin\Debug\net6.0\MyMiddleWebServer.dll
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\bin\Debug\net6.0\MyMiddleWebServer.pdb
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.csproj.AssemblyReference.cache
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.AssemblyInfoInputs.cache
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.AssemblyInfo.cs
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.csproj.CoreCompileInputs.cache
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.dll
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\refint\MyMiddleWebServer.dll
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.pdb
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.genruntimeconfig.cache
+C:\Users\n.rasullu\source\repos\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\ref\MyMiddleWebServer.dll
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\bin\Debug\net6.0\MyMiddleWebServer.exe
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\bin\Debug\net6.0\MyMiddleWebServer.deps.json
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\bin\Debug\net6.0\MyMiddleWebServer.runtimeconfig.json
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\bin\Debug\net6.0\MyMiddleWebServer.dll
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\bin\Debug\net6.0\MyMiddleWebServer.pdb
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.csproj.AssemblyReference.cache
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.AssemblyInfoInputs.cache
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.AssemblyInfo.cs
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.csproj.CoreCompileInputs.cache
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.dll
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\refint\MyMiddleWebServer.dll
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.pdb
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\MyMiddleWebServer.genruntimeconfig.cache
+C:\Users\n.rasullu\Desktop\New folder\FBAS_1215_az\MyMiddleWebServer\MyMiddleWebServer\obj\Debug\net6.0\ref\MyMiddleWebServer.dll
