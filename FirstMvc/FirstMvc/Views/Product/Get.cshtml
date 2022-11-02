@@ -1,0 +1,24 @@
+﻿@using System.Text.Json
+@*@model Product;
+
+    <h1>Product:</h1>
+    <label>Title: @Model.Title</label>
+    <label>Price: @Model.Price</label>*@
+
+
+@*<h1>Product:</h1>
+    <label>Title: @ViewBag.Product.Title</label>
+    <label>Price: @ViewBag.Product.Price</label>*@
+@*@{
+    Product? product = ViewData["Product"] as Product;
+    }
+    <h1>Product:</h1>
+    <label>Title: @product?.Title</label>
+    <label>Price: @product?.Price</label>*@
+
+@{
+    Product? product = JsonSerializer.Deserialize<Product>(TempData["Product"].ToString());
+}
+<h1>Product:</h1>
+<label>Title: @product?.Title</label>
+<label>Price: @product?.Price</label>
