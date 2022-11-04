@@ -1,0 +1,17 @@
+﻿@model List<Product>
+
+<table cellspacing="0" cellpadding="10" border="1">
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Price</th>
+    </tr>
+    @foreach (var product in Model)
+    {
+       <tr>
+           <td text-align="center">@product.Name</td>
+           <td text-align="center">@product.Description</td>
+           <td text-align="center">@product.Price</td>
+       </tr> 
+    }
+</table>
