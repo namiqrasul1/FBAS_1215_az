@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\namiqrasullu\\source\\repos\\SencondMvc\\SencondMvc\\SencondMvc.csproj": {}
+    "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\SencondMvc\\SencondMvc\\SencondMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\namiqrasullu\\source\\repos\\SencondMvc\\SencondMvc\\SencondMvc.csproj": {
+    "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\SencondMvc\\SencondMvc\\SencondMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\namiqrasullu\\source\\repos\\SencondMvc\\SencondMvc\\SencondMvc.csproj",
+        "projectUniqueName": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\SencondMvc\\SencondMvc\\SencondMvc.csproj",
         "projectName": "SencondMvc",
-        "projectPath": "C:\\Users\\namiqrasullu\\source\\repos\\SencondMvc\\SencondMvc\\SencondMvc.csproj",
+        "projectPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\SencondMvc\\SencondMvc\\SencondMvc.csproj",
         "packagesPath": "C:\\Users\\namiqrasullu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\namiqrasullu\\source\\repos\\SencondMvc\\SencondMvc\\obj\\",
+        "outputPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\SencondMvc\\SencondMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

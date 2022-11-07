@@ -1,0 +1,15 @@
+﻿@model Product
+
+<form asp-action="AddProduct" asp-controller="Product" method="post" >
+    <input type="text" asp-for="Name" placeholder="Name"/>
+    <span asp-validation-for=Name></span>
+
+    <br />
+    <input type="text" asp-for="Mail" placeholder="Mail"/>
+    <span asp-validation-for=Mail></span>
+    <br />
+    <input type="text" asp-for="Quantity" placeholder="Quantity"/>
+    <span asp-validation-for=Quantity></span>
+    <br />
+    <input type="submit" />
+</form>
