@@ -1,0 +1,8 @@
+﻿@model List<Person>
+
+<ul>
+    @foreach (var person in Model)
+    {
+        <li>@person.Name @person.Surname</li>
+    }
+</ul>

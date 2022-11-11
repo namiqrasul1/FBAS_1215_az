@@ -1,0 +1,10 @@
+﻿
+
+<h2>Home Page</h2>
+
+<partial name="~/Views/Home/CarouselPartial.cshtml" model=ViewBag.Images />
+@await Component.InvokeAsync("Carousel");
+
+@*@section myFooter{
+    <h1>Index page viewed</h1>
+}*@
