@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "zkL98TdgSw9DWHVVkPCMmQy8rVnXlgTLPyzmLyOQS5MXTH1EZEOPONIdHev89rnAwlPJTAkO7m3satxd5RAWDw==",
+  "dgSpecHash": "5oJz3Jm2e1Fyf1n+7gHfXSBsNUDqyavThBq0iQFca+Vy4ZPwMpThmu1di7z5cK0u0PLJWsi8eMFDRLkwQGoIKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\namiqrasullu\\source\\repos\\EShop\\Infrastructure\\EShop.Persistence\\EShop.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\EShop\\Infrastructure\\EShop.Persistence\\EShop.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namiqrasullu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\namiqrasullu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\namiqrasullu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\namiqrasullu\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\namiqrasullu\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\namiqrasullu\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\namiqrasullu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\namiqrasullu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\namiqrasullu\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

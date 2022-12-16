@@ -10,3 +10,15 @@ C:\Users\namiqrasullu\source\repos\EShop\Core\EShop.Domain\obj\Debug\net6.0\ESho
 C:\Users\namiqrasullu\source\repos\EShop\Core\EShop.Domain\obj\Debug\net6.0\refint\EShop.Domain.dll
 C:\Users\namiqrasullu\source\repos\EShop\Core\EShop.Domain\obj\Debug\net6.0\EShop.Domain.pdb
 C:\Users\namiqrasullu\source\repos\EShop\Core\EShop.Domain\obj\Debug\net6.0\ref\EShop.Domain.dll
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\bin\Debug\net6.0\EShop.Domain.deps.json
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\bin\Debug\net6.0\EShop.Domain.dll
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\bin\Debug\net6.0\EShop.Domain.pdb
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\obj\Debug\net6.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\obj\Debug\net6.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\obj\Debug\net6.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\obj\Debug\net6.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\obj\Debug\net6.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\obj\Debug\net6.0\EShop.Domain.dll
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\obj\Debug\net6.0\refint\EShop.Domain.dll
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\obj\Debug\net6.0\EShop.Domain.pdb
+C:\Users\namiqrasullu\Desktop\FBAS_1215_az\EShop\Core\EShop.Domain\obj\Debug\net6.0\ref\EShop.Domain.dll

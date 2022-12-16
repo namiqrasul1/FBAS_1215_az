@@ -1,8 +1,9 @@
-﻿using EShop.Application.Paginations;
+﻿using EShop.Application.Features.Commands.Products.AddProduct;
+using EShop.Application.Features.Queries.Products.GetAllProducts;
 using EShop.Application.Repositories.ProductRepository;
 using EShop.Application.ViewModels;
 using EShop.Domain.Entities;
-using Microsoft.AspNetCore.Http;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
@@ -14,23 +15,23 @@ namespace EShop.API.Controllers
     {
         private readonly IProductReadRepository productReadRepository;
         private readonly IProductWriteRepository productWriteRepository;
+        private readonly IMediator mediator;
 
-        public ProductsController(IProductReadRepository productReadRepository, IProductWriteRepository productWriteRepository)
+        public ProductsController(IProductReadRepository productReadRepository, IProductWriteRepository productWriteRepository, IMediator mediator)
         {
             this.productReadRepository = productReadRepository;
             this.productWriteRepository = productWriteRepository;
+            this.mediator = mediator;
         }
 
         [HttpGet("getall")]
-        public IActionResult GetAll([FromQuery] Pagination pagination)
+        public async Task<IActionResult> GetAll([FromQuery] GetProductsQueryRequest request)
         {
             //baseurl/api/products/getall
             try
             {
-                var totalCount = productReadRepository.GetAll(tracking: false).Count();
-                var products = productReadRepository.GetAll(tracking: false).OrderBy(product => product.CreatedTime).Skip(pagination.Size * pagination.Page).Take(pagination.Size);
-
-                return Ok(new { products, totalCount });
+                var response = await mediator.Send(request);
+                return Ok(response);
 
             }
             catch (Exception)
@@ -41,22 +42,14 @@ namespace EShop.API.Controllers
         }
 
         [HttpPost("add")]
-        public async Task<IActionResult> Add([FromBody] CreateProductViewModel model)
+        public async Task<IActionResult> Add([FromBody] AddProductCommandRequest request)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
-                    var product = new Product
-                    {
-                        Id = Guid.NewGuid(),
-                        Name = model.Name,
-                        Description = model.Desc,
-                        Price = model.Price,
-                        Stock = model.Stock
-                    };
-                    await productWriteRepository.AddAsync(product);
-                    await productWriteRepository.SaveChangesAsync();
+                    await mediator.Send(request);
+
 
                     return StatusCode((int)HttpStatusCode.Created);
                 }
@@ -70,7 +63,7 @@ namespace EShop.API.Controllers
 
         }
 
-        
+
 
 
         //[HttpGet]

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FqzE8CPm9iUiSdDuHBQZjJn7W/37gG4LcqKh+d3KXRMRGPtt/58bcEAfdmBibw/JFHYjtYDWZpxfgRrFrJyagA==",
+  "dgSpecHash": "etzQTmdIiqpBvLq6y9BBxMZVYaFWiAZtK3V5rDMB6xkcNDKxE516UHrLNkhpQ/qxXBYBei+OxZ6WG2fG2YnGYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\namiqrasullu\\source\\repos\\EShop\\Infrastructure\\EShop.Infrastructure\\EShop.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\EShop\\Infrastructure\\EShop.Infrastructure\\EShop.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\namiqrasullu\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\namiqrasullu\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\namiqrasullu\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\namiqrasullu\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\namiqrasullu\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\namiqrasullu\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0\\microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",

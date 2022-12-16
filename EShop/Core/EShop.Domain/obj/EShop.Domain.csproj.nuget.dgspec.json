@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\namiqrasullu\\source\\repos\\EShop\\Core\\EShop.Domain\\EShop.Domain.csproj": {}
+    "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\EShop\\Core\\EShop.Domain\\EShop.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\namiqrasullu\\source\\repos\\EShop\\Core\\EShop.Domain\\EShop.Domain.csproj": {
+    "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\EShop\\Core\\EShop.Domain\\EShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\namiqrasullu\\source\\repos\\EShop\\Core\\EShop.Domain\\EShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\EShop\\Core\\EShop.Domain\\EShop.Domain.csproj",
         "projectName": "EShop.Domain",
-        "projectPath": "C:\\Users\\namiqrasullu\\source\\repos\\EShop\\Core\\EShop.Domain\\EShop.Domain.csproj",
+        "projectPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\EShop\\Core\\EShop.Domain\\EShop.Domain.csproj",
         "packagesPath": "C:\\Users\\namiqrasullu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\namiqrasullu\\source\\repos\\EShop\\Core\\EShop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_1215_az\\EShop\\Core\\EShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
