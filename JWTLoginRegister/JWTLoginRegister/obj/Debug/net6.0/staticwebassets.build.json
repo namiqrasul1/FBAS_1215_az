@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fE03DCovtnv5W8fICkmGfTTJHSB5nofYr4l0wP4JI9M=",
+  "Source": "JWTLoginRegister",
+  "BasePath": "_content/JWTLoginRegister",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
