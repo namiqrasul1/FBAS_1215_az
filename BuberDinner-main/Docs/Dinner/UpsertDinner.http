@@ -1,0 +1,20 @@
+@id=cc69b0e9-bacd-4b80-83d7-8c34f294f66e
+
+PUT https://localhost:7009/dinners/{{id}}
+Content-Type: application/json
+
+{
+    "name": "Vegan Sunshine 2",
+    "description": "Vegan everything! Join us for a healthy dinner full of vegan dishes and Cookies \uD83C\uDF3F\uD83E\uDD24",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime": "2022-04-08T11:00:00",
+    "savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette",
+        "Salad"
+    ],
+    "Sweet": [
+        "Cookie"
+    ]
+}

@@ -1,0 +1,9 @@
+namespace BuberDinner.Contracts.Breakfast;
+
+public record CreateDinnerRequest(
+    string Name,
+    string Description,
+    DateTime StartDateTime,
+    DateTime EndDateTime,
+    List<string> Savory,
+    List<string> Sweet);

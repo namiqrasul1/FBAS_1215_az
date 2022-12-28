@@ -1,0 +1,15 @@
+POST https://localhost:7009/dinners
+Content-Type: application/json
+
+{
+   
+    "name": "",
+    "description": "Vegan everything! Join us for a healthy dinner full of vegan dishes and Cookies",
+    "startDateTime": "2022-04-08T05:00:00",
+    "endDateTime": "2021-04-08T11:00:00",
+    "savory": [
+    ],
+    "Sweet": [
+        "Cookie"
+    ]
+}

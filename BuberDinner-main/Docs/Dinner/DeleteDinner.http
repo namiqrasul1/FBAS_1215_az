@@ -1,0 +1,3 @@
+@id=cc69b0e9-bacd-4b80-83d7-8c34f294f66e
+
+DELETE https://localhost:7009/dinners/{{id}}
