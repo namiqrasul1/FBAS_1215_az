@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SmDyBonZS56MKoxATAYTQBxobTdnKXP+XzkHKDGo9rA=",
+  "Source": "ApiGatewayTest",
+  "BasePath": "_content/ApiGatewayTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
